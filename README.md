@@ -6,4 +6,4 @@ Hello World!
 I am new in this space i am ready to learn
 
 ## Branches
-I am learning to create difeerent branches
+I am learning to create diferent branches
